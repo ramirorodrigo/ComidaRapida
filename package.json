@@ -1,5 +1,5 @@
 {
-  "name": "serviseRestaurante",
+  "name": "serviserestaurante",
   "version": "1.0.0",
   "dependencies": {
     "mongoose": "~5.9.27",
@@ -7,5 +7,21 @@
     "method-override": "^3.0.0",
     "fs": "0.0.2",
     "body-parser": "^1.19.0"
-  }
+  },
+  "description": "Comida Rapida restaurantes menus facturas",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramirorodrigo/ComidaRapida.git"
+  },
+  "author": "Ramiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramirorodrigo/ComidaRapida/issues"
+  },
+  "homepage": "https://github.com/ramirorodrigo/ComidaRapida#readme"
 }
