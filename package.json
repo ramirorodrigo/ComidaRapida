@@ -1,0 +1,11 @@
+{
+  "name": "serviseRestaurante",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongoose": "~5.9.27",
+    "express": "~4.17.1",
+    "method-override": "^3.0.0",
+    "fs": "0.0.2",
+    "body-parser": "^1.19.0"
+  }
+}
